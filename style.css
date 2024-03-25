@@ -1,0 +1,141 @@
+/* GENERAL */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #674baf;
+    background-image: url(./images/bg-mobile.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h2,
+h3,
+h4,
+p {
+    margin: 0;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+/* NAV-BAR */
+nav img{
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+/* LANDING-PAGE */
+ 
+.landing-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+#landing-page-mockups img{
+    width: 90vw;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+/* LANDING-PAGE-CONTENTS */
+
+.landing-page-contents h2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 1.8rem;
+    font-weight: 600;
+    line-height: 150%;
+    letter-spacing: 1%;
+    text-justify: distribute;
+    color: #ffffff;
+    text-align: center;
+}
+
+#header-container{
+    margin-bottom: 25px;
+}
+
+.landing-page-container{
+  width: 90%;
+  justify-content: center;
+  padding: 20px;
+}
+
+.landing-page-contents p{
+    font-size: 1.2rem;
+    margin: 10px;
+    color: #ffffffd4;
+    line-height: 150%;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+/* LANDING-PAGE-BUTTON */
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
+
+.button-container button{
+    font-family: "Poppins", sans-serif;
+    font-size: 1.2rem;
+    width: 50%;
+    padding: 10px;
+    border-radius: 25px;
+    box-shadow: 6px 6px 16px -6px rgba(0,0,0,0.5);
+    border: none;
+    background-color: #ffffff;
+    color: #674baf;
+
+}
+
+.button-container button:hover{
+    cursor: pointer;
+    background-color: #e882e8;
+    color: #ffffff;
+}
+
+/* SOCIAL-MEDIA-ICONS */
+
+.social-media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#social-icons{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+#social-icons img{
+    color: white;
+    filter: brightness(100) saturate(0);
+    margin: 5px;
+    margin-bottom: 20px;
+    height: 32px;
+    width: 32px;
+}
+
+#social-icons img:hover{
+    cursor: pointer;
+    filter: none;
+}

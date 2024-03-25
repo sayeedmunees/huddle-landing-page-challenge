@@ -1,0 +1,84 @@
+@media (min-width: 576px) {
+
+    body {
+        height: 100vh;
+        background-image: url(./images/bg-desktop.svg);
+        background-position: center;
+        background-size: cover;
+    }
+
+
+/* NAV-BAR */
+
+nav img{
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 150px;
+}
+
+/* LANDING-PAGE */
+ 
+.landing-page{
+    flex-direction: row;
+}
+
+#landing-page-mockups{
+    flex-basis: 60%;
+}
+
+
+#landing-page-mockups img{
+    width: 90%;
+    margin-left: 50px;
+}
+/* LANDING-PAGE-CONTENTS */
+
+#landing-page-container{
+    flex-basis: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 75px;
+    align-self: start;
+}
+
+.landing-page-contents h2 {
+    font-size: 2rem;
+    text-align: left;
+}
+
+.landing-page-contents{
+  width: 100%;
+}
+
+.landing-page-contents p{
+    font-size: 1rem;
+    margin: 0px;
+    text-align: left;
+}
+
+/* LANDING-PAGE-BUTTON */
+
+.button-container{
+    width: 15vw;
+    min-width: fit-content;
+}
+
+.button-container button{
+    font-size: 1.2rem;
+    width: 100%;
+}
+
+/* SOCIAL-MEDIA-ICONS */
+
+.social-media{
+    align-items: end;
+}
+
+#social-icons{
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+}
+
+}
