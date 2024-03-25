@@ -1,6 +1,6 @@
 # Huddle landing page with single introductory section
 
-This is the solution to the [Huddle landing page on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). This solution ensures a visually appealing and responsive blog preview card with optimal layout for various screen sizes.
+This is the solution to the [Huddle landing page on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). This solution ensures a visually appealing and responsive blog preview card with optimal layout for various screen sizes.
 
 ## Table of contents
 
@@ -30,9 +30,9 @@ This is the solution to the [Huddle landing page on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/sayeedmunees/blog-preview-card-challenge)
+- Solution URL: [Click here](https://github.com/sayeedmunees/huddle-landing-page-challenge)
 
-- Live Site URL: [Click here](https://sayeedmunees.github.io/blog-preview-card-challenge/)
+- Live Site URL: [Click here](https://sayeedmunees.github.io/huddle-landing-page-challenge/)
 
 ## My process
 
@@ -67,7 +67,7 @@ Here's a snippet demonstrating the use of filter :
 
 ### Useful resources
 
-- [Frontend Mentor](ttps://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) - Got this challenge from Frontend Mentor,along with workfiles like required designs, icons and other files.
+- [Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) - Got this challenge from Frontend Mentor,along with workfiles like required designs, icons and other files.
 
 - [MDN Docs](https://developer.mozilla.org/en-US/) - Here's another useful resourse, which is the MDN web Docs itself. It helped me to find, understand and to use code snippets that i didn't knew before.
 
